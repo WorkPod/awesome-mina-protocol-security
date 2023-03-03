@@ -11,7 +11,7 @@
 - [Official Docs & Quickstarts](#official-docs--quickstarts)
 - [SnarkyJS](#snarky-js)
 - [Best practices](#best-practices)
-- [Common attack vectors](#common-attack vectors)
+- [Common attack vectors](#common-attack-vectors)
 - [Other](#other)
 
 <!-- START content -->
